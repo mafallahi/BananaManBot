@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mafallahi/BananaMan.git"
+    "url": "git+https://github.com/mafallahi/BananaManBot.git"
   },
   "keywords": [
     "simbplebot",
@@ -19,9 +19,9 @@
   "author": "mafallahi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafallahi/BananaMan/issues"
+    "url": "https://github.com/mafallahi/BananaManBot/issues"
   },
-  "homepage": "https://github.com/mafallahi/BananaMan#readme",
+  "homepage": "https://github.com/mafallahi/BananaManBot#readme",
   "dependencies": {
     "discord.js": "^12.2.0"
   },
