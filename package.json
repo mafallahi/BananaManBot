@@ -1,0 +1,31 @@
+{
+  "name": "bananaman",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafallahi/BananaMan.git"
+  },
+  "keywords": [
+    "simbplebot",
+    "bot",
+    "discord"
+  ],
+  "author": "mafallahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafallahi/BananaMan/issues"
+  },
+  "homepage": "https://github.com/mafallahi/BananaMan#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

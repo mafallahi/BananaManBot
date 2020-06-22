@@ -1,0 +1,2 @@
+# BananaManBot
+ simple discord bot
